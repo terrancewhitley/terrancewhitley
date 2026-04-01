@@ -1,5 +1,5 @@
 
-![Image](https://github.com/user-attachments/assets/19b40193-ce14-4e16-aceb-7d8a79624ab0)
+![Image](https://github.com/user-attachments/assets/19b40193-ce14-4e16-aceb-7d8a79624ab0)<p align="center">
 
 # Terrance Whitley
 
