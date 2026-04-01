@@ -3,20 +3,14 @@
 
 # Terrance Whitley
 
-**About Me...**
+**About Me...**<br/>
+~ A freshman at East Carolina University studying Computer Science.<br/>
+~ My dream career is video game development.<br/>
+~ A major fan of all things fiction.<br/>
 
-~ A freshman at East Carolina University studying Computer Science.
-
-~ My dream career is video game development.
-
-~ A major fan of all things fiction.
-
-**Current Works**
-
-~ I’m currently working on a group project for my Algorithms and Data Structures Class.
-
-
-## Socials:
+**Current Works**<br/>
+~ I’m currently working on a group project for my Algorithms and Data Structures Class.<br/>
+## Socials:<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terrance-whitley-6065813b5/) 
 
 **I use...**<br/>
