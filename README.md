@@ -1,7 +1,6 @@
-## Hi there 👋
+# Terrance Whitley
 
-<!--
-**terrancewhitley/terrancewhitley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a freshman at East Carolina University majoring in the arts of Computer Science!
 
 Here are some ideas to get you started:
 
