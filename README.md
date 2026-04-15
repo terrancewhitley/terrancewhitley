@@ -1,5 +1,7 @@
-<p align="center">
-![Image](https://github.com/user-attachments/assets/19b40193-ce14-4e16-aceb-7d8a79624ab0) </p>
+<div id="header" align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/19b40193-ce14-4e16-aceb-7d8a79624ab0" width="350"/>
+ </div>
 
 # Terrance Whitley
 
